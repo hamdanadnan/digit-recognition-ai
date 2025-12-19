@@ -1,6 +1,0 @@
-streamlit
-streamlit-drawable-canvas
-tensorflow
-numpy
-opencv-python
-Pillow
